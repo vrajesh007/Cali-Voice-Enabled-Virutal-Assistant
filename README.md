@@ -35,7 +35,7 @@ Recognition library of python and Sapi5 library of windows.
 
     12. subprocess
 
-### how to run our code:
+### how to run this code:
 
 1.  first clone the repo of
 2.  install required packages and libraries using pip install "library"
