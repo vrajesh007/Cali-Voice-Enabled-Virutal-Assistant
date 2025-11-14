@@ -10,7 +10,7 @@ Recognition library of python and Sapi5 library of windows.
 
 ### GIF:
 
-![Cali-gif] (https://github.com/vrajesh007/Cali-Voice-Enabled-Virutal-Assistant/blob/main/Cali-demo.gif)
+![Cali-gif] (https://github.com/vrajesh007/Cali-Voice-Enabled-Virutal-Assistant/blob/main/Cali-demo2.gif)
 
 ### Packages and Libraries are required for installation using Pip install Command:
 
